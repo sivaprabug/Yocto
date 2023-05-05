@@ -1,6 +1,0 @@
-Challenge
---------------
-
-What changes you make to generate an image for qemu mips?
-
-Once generated run the image in qemu emulator
